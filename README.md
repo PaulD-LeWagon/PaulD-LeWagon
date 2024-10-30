@@ -1,5 +1,5 @@
 <div align="center">
-<img  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Iya21haG95cWtlbTl3dHRkYzFrN2Z1aHd5bXdwa2Q3bng0ZGVsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYcHkIWl29UKdoc/giphy.gif" alt="I don't know!">
+<img  src="https://i.giphy.com/media/v1.Y2lkPTc5 MGI3NjExc2Iya21haG95cWtlbTl3dHRkYzFrN2Z1aHd5bXdwa2Q3bng0ZGVsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYcHkIWl29UKdoc/giphy.gif" alt="I don't know!">
 <h3>👋 Hello there...</h3>
 
 <div>
@@ -27,27 +27,20 @@ Web Dev always looking to develop my skills...
 
 <hr>
 
-<img align="center" src="https://skillicons.dev/icons?i=ruby,rails,js,postgres,sass,css,html" />
+<div align="center">
+  
+<img src="https://skillicons.dev/icons?i=ruby,rails,js,postgres,sass,css,html,heroku,git,github" />
+
+</div>
 
 <hr>
 
+<div align="center">
 
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulD-LeWagon&layout=compact&theme=vision-friendly-dark&card-width=320" alt="Language Stats">
 
+&nbsp;
 
+<img height=200 margin=10 align="center" src="https://github.r2v.ch/codewars?user=PaulD-LeWagon" alt="CodeWars Stats!">
 
-
-<!--
-https://simpleicons.org
-**PaulD-LeWagon/PaulD-LeWagon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
