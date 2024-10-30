@@ -1,6 +1,4 @@
 <div align="center">
-  
-<img  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJhYTFxbHZlejdkNWt4bWpxOXBjanphc2htMzl5OXZ1YmJkbTA3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4H3Ii5eLChYul9p7NL/giphy-downsized-large.gif" />
 
 <h2>👋 Hello there...</h2>
 
