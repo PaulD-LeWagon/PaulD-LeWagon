@@ -2,7 +2,7 @@
   
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3kwZTMyNmVoNnJhY2Rycjdvbnk1N3AyZXY0dXNwN2x3d3VlN2FoaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Loony Toons World!" />
 
-<h2>👋 Hello there...</h2>
+<h2>👋 Salve Mundi!</h2>
 
   <div>
     <a href="https://www.codewars.com/users/PaulD-LeWagon">
